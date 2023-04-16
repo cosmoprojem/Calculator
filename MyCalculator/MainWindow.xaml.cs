@@ -37,7 +37,8 @@ namespace MyCalculator
         private void op_button_Click(object sender, RoutedEventArgs e)
         {
             Button b = (Button)sender;
-
+//deneme yapıuoruz
+//2. comment
             if (op != int.MinValue)
             {
                 if (curr_box.Text != "")
@@ -58,8 +59,11 @@ namespace MyCalculator
                 result = Int32.Parse(curr_box.Text);
             }
 
-            result_box.Text = "" + result;
-            curr_box.Text = "";
+
+
+            //result_box.Text = "" + result;
+            //curr_box.Text = "";
+            add_box.Text = result.ToString();
 
             string button_type = b.Content.ToString();
 
@@ -71,6 +75,11 @@ namespace MyCalculator
             {
                 op = 2;
             }
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
         }
     }
 }
