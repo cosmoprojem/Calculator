@@ -11,3 +11,18 @@ c:\users\siddharth\documents\visual studio 2013\Projects\MyCalculator\MyCalculat
 c:\users\siddharth\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
 c:\users\siddharth\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
 c:\users\siddharth\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MyCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MainWindow.baml
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\App.g.cs
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MyCalculator_MarkupCompile.cache
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MyCalculator.g.resources
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\cosmo\Source\Repos\Calculator\MyCalculator\obj\Debug\MyCalculator.pdb
