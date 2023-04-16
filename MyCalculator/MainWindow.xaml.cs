@@ -38,6 +38,7 @@ namespace MyCalculator
         {
             Button b = (Button)sender;
 //deneme yapıuoruz
+//2. comment
             if (op != int.MinValue)
             {
                 if (curr_box.Text != "")
