@@ -49,6 +49,7 @@ namespace MyCalculator
                     else if (op == 2)
                     {
                         result -= Int32.Parse(curr_box.Text);
+                        result -= Int32.Parse(curr_box.Text);
                     } 
                 } 
             }
